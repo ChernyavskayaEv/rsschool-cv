@@ -55,10 +55,31 @@ const isIsogram = (x) => {
 
 ### Education
 
+- Result.School
+  - HTML & CSS. Diploma №971
+  - TypeScript. Diploma №4115
+  - Frontend-marafon
+- RS School
+  - NodeJS 2023 Q2 (in process)
+  - JS/FE Pre-SSchool 2023Q2 (in process)
+
 ---
 
 ### Experience
 
+I have solutions tasks during the courses and own project for experience
+
+- [CV_Chernyavskaya](https://chernyavskayaev.github.io/CV_Chernyavskaya/)
+- [Weather_sounds](https://github.com/ChernyavskayaEv/Weather_sounds)
+- [my-planning](https://evgeniya-planning.onrender.com/)
+- [cards-sources](https://codepen.io/chernyavskayaev/pen/rNvvYGE)
+- [slider](https://codepen.io/chernyavskayaev/pen/ZEoRvdp)
+- [board](https://codepen.io/chernyavskayaev/pen/zYjaQrz)
+- [aim-game](https://codepen.io/chernyavskayaev/pen/QWrBeEB)
+
 ---
 
 ### Languages
+
+- Russian (native)
+- English (middle)
