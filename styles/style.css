@@ -109,7 +109,7 @@ article {
 }
 
 .footer-github {
-  background-image: url(/images/GitHub-Mark.png);
+  background-image: url(/rsschool-cv/images/GitHub-Mark.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 45px;
@@ -315,7 +315,7 @@ a:active {
 
 .icon1 {
   align-self: center;
-  background-image: url(/images/place-marker.png);
+  background-image: url(/rsschool-cv/images/place-marker.png);
   background-position: center;
   background-size: 25px;
   flex-shrink: 0;
@@ -327,7 +327,7 @@ a:active {
 
 .icon2 {
   align-self: center;
-  background-image: url(/images/info.png);
+  background-image: url(/rsschool-cv/images/info.png);
   background-position: center;
   background-size: 30px;
   border-radius: 50%;
@@ -340,7 +340,7 @@ a:active {
 
 .icon3 {
   align-self: center;
-  background-image: url(/images/phone.png);
+  background-image: url(/rsschool-cv/images/phone.png);
   background-position: center;
   background-size: 20px;
   flex-shrink: 0;
@@ -352,7 +352,7 @@ a:active {
 
 .icon4 {
   align-self: center;
-  background-image: url(/images/emails.png);
+  background-image: url(/rsschool-cv/images/emails.png);
   background-position: center;
   background-size: 20px;
   flex-shrink: 0;
@@ -377,19 +377,19 @@ a:active {
 }
 
 .icon5 {
-  background-image: url(/images/telegram.png);
+  background-image: url(/rsschool-cv/images/telegram.png);
 }
 
 .icon51 {
-  background-image: url(/images/GitHub-Mark.png);
+  background-image: url(/rsschool-cv/images/GitHub-Mark.png);
 }
 
 .icon52 {
-  background-image: url(/images/codepen.png);
+  background-image: url(/rsschool-cv/images/codepen.png);
 }
 
 .icon53 {
-  background-image: url(/images/Untitled.png);
+  background-image: url(/rsschool-cv/images/Untitled.png);
 }
 
 .icon6,
@@ -412,39 +412,39 @@ a:active {
 }
 
 .icon6 {
-  background-image: url(/images/search-contacts.png);
+  background-image: url(/rsschool-cv/images/search-contacts.png);
 }
 
 .icon7 {
-  background-image: url(/images/globe.png);
+  background-image: url(/rsschool-cv/images/globe.png);
 }
 
 .icon8 {
-  background-image: url(/images/skills.png);
+  background-image: url(/rsschool-cv/images/skills.png);
 }
 
 .icon10 {
-  background-image: url(/images/contact-us.png);
+  background-image: url(/rsschool-cv/images/contact-us.png);
 }
 
 .icon11 {
-  background-image: url(/images/briefcase.png);
+  background-image: url(/rsschool-cv/images/briefcase.png);
 }
 
 .icon12 {
-  background-image: url(/images/graduation-cap.png);
+  background-image: url(/rsschool-cv/images/graduation-cap.png);
 }
 
 .icon13 {
-  background-image: url(/images/course.png);
+  background-image: url(/rsschool-cv/images/course.png);
 }
 
 .icon14 {
-  background-image: url(/images/female.png);
+  background-image: url(/rsschool-cv/images/female.png);
 }
 
 .icon15 {
-  background-image: url(/images/navigation.png);
+  background-image: url(/rsschool-cv/images/navigation.png);
   background-position: center;
   background-size: 55px;
   flex-shrink: 0;
