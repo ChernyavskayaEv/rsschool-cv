@@ -1,6 +1,6 @@
 # Evgeniya Chernyavskaya
 
-![Evgeniya Chernyavskaya](./photo_2022-07-01_02-51-37.jpg)
+![Evgeniya Chernyavskaya](./pictures/catalog/avatar.jpg)
 
 ### Junior Frontend Developer
 
