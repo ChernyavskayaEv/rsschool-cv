@@ -77,14 +77,7 @@ article {
   text-align: center;
 }
 
-.header2 .icon6,
-.header2 .icon7,
-.header2 .icon8,
-.header2 .icon9,
-.header2 .icon10,
-.header2 .icon11,
-.header2 .icon12,
-.header2 .icon13 {
+.header2 img {
   display: inline-block;
   background-size: 30px;
   filter: invert(100%);
@@ -106,14 +99,6 @@ article {
   font-size: 20px;
   text-decoration: none;
   margin: 0px 10px;
-}
-
-.footer-github {
-  background-image: url(/rsschool-cv/images/GitHub-Mark.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 45px;
-  height: 45px;
 }
 
 .header1 a,
@@ -188,6 +173,10 @@ a:active {
   display: block;
   margin: 10px auto;
   width: 300px;
+}
+
+.github {
+  width: 50px;
 }
 
 .logo {
@@ -310,12 +299,12 @@ a:active {
   border-radius: 5px;
   display: flex;
   justify-content: left;
+  align-items: center;
   margin-bottom: 10px;
 }
 
 .icon1 {
   align-self: center;
-  background-image: url(/rsschool-cv/images/place-marker.png);
   background-position: center;
   background-size: 25px;
   flex-shrink: 0;
@@ -325,22 +314,8 @@ a:active {
   width: 25px;
 }
 
-.icon2 {
-  align-self: center;
-  background-image: url(/rsschool-cv/images/info.png);
-  background-position: center;
-  background-size: 30px;
-  border-radius: 50%;
-  flex-shrink: 0;
-  height: 20px;
-  margin: 5px;
-  opacity: 0.8;
-  width: 20px;
-}
-
 .icon3 {
   align-self: center;
-  background-image: url(/rsschool-cv/images/phone.png);
   background-position: center;
   background-size: 20px;
   flex-shrink: 0;
@@ -352,7 +327,6 @@ a:active {
 
 .icon4 {
   align-self: center;
-  background-image: url(/rsschool-cv/images/emails.png);
   background-position: center;
   background-size: 20px;
   flex-shrink: 0;
@@ -376,22 +350,6 @@ a:active {
   width: 17px;
 }
 
-.icon5 {
-  background-image: url(/rsschool-cv/images/telegram.png);
-}
-
-.icon51 {
-  background-image: url(/rsschool-cv/images/GitHub-Mark.png);
-}
-
-.icon52 {
-  background-image: url(/rsschool-cv/images/codepen.png);
-}
-
-.icon53 {
-  background-image: url(/rsschool-cv/images/Untitled.png);
-}
-
 .icon6,
 .icon7,
 .icon8,
@@ -403,48 +361,15 @@ a:active {
 .icon14 {
   align-self: center;
   background-position: center;
-  background-size: 40px;
+  background-size: 30px;
   flex-shrink: 0;
-  height: 40px;
+  height: 30px;
   margin: 5px;
   opacity: 0.8;
-  width: 40px;
-}
-
-.icon6 {
-  background-image: url(/rsschool-cv/images/search-contacts.png);
-}
-
-.icon7 {
-  background-image: url(/rsschool-cv/images/globe.png);
-}
-
-.icon8 {
-  background-image: url(/rsschool-cv/images/skills.png);
-}
-
-.icon10 {
-  background-image: url(/rsschool-cv/images/contact-us.png);
-}
-
-.icon11 {
-  background-image: url(/rsschool-cv/images/briefcase.png);
-}
-
-.icon12 {
-  background-image: url(/rsschool-cv/images/graduation-cap.png);
-}
-
-.icon13 {
-  background-image: url(/rsschool-cv/images/course.png);
-}
-
-.icon14 {
-  background-image: url(/rsschool-cv/images/female.png);
+  width: 30px;
 }
 
 .icon15 {
-  background-image: url(/rsschool-cv/images/navigation.png);
   background-position: center;
   background-size: 55px;
   flex-shrink: 0;
@@ -476,6 +401,10 @@ a:active {
   .foto {
     width: 250px;
   }
+
+  pre {
+    font-size: 13px;
+  }
 }
 
 @media screen and (max-width: 630px) {
@@ -495,6 +424,10 @@ a:active {
 @media screen and (min-width: 630px) and (max-width: 900px) {
   .header1 {
     display: none;
+  }
+
+  pre {
+    font-size: 13px;
   }
 }
 
